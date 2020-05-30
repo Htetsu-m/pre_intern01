@@ -142,9 +142,9 @@ table{
 
 }
 .footer{
-    position: absolute;
+    position: fixed;
     left: 0;
-    top:1850px;
+    bottom: 0;
     width: 100%;
     background-color: darkblue;
     color:yellow;
